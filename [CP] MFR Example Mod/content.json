@@ -1,0 +1,13 @@
+{
+  "Format": "2.0",
+  "Changes": [
+    {
+      "LogName": "Modify fruit spawning area",
+      "Action": "EditMap",
+      "Target": "Maps/FarmCave",
+      "MapProperties": {
+        "FruitSpawningRegion": "5 8 5 8"
+      }
+    }
+  ]
+}

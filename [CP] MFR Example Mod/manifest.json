@@ -1,0 +1,16 @@
+{
+  "Name": "ModifiableFruitRegion Example",
+  "Author": "Pillow",
+  "Version": "1.0.0",
+  "Description": "Example mod for ModifiableFruitRegion",
+  "UniqueID": "Pillow.MFR.Example",
+  "UpdateKeys": [],
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher"
+  },
+  "Dependencies": [
+    {
+      "UniqueID": "Pillow.ModifiableFruitRegion"
+    }
+  ]
+}
