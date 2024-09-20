@@ -1,0 +1,11 @@
+{
+  "Name": "ModifiableFruitRegion",
+  "Author": "Pillow",
+  "Version": "1.0.0",
+  "Description": "A mod to allow Content Patcher mods edit fruit cave spawning region.",
+  "UniqueID": "Pillow.ModifiableFruitRegion",
+  "EntryDll": "ModifiableFruitRegion.dll",
+  "UpdateKeys": [
+    "Nexus:27985"
+  ]
+}
